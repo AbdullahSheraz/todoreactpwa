@@ -78,7 +78,7 @@ const Todo = () => {
       <div className="main-div">
         <div className="child-div">
           <figure>
-          <i class="fas fa-clipboard-list fa-9x" style={{color:"white"}}></i>
+          <i class="fas fa-clipboard-list fa-9x" style={{color:"darkgoldenrod"}}></i>
             <figcaption>Add Your List Here</figcaption>
           </figure>
           <div className="addItems">
